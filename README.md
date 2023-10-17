@@ -8,11 +8,11 @@ El proyecto fue creado con **HTML** y **CSS**. Se trata del navegador más usado
 ![Clon de Google](capturaclon.png)
 ** Inspírate de la realización de este proyecto, utiliza tu destreza y aprendizaje para demostrar que tu futuro es ser desarrolladora frontend**
 ## Contenido del proyecto:
-1. Header
+1. Header:
 Esta sección muestra el menú y foto de perfil.
-2. Main
+2. Main:
 Cuontiene los elementos centrales del buscador.
-3. Footer
+3. Footer:
 Incluye hipervínculos al final de la página.
 ***
 Realizado por: Karen Caballero Hernández.
