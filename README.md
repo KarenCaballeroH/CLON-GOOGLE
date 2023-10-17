@@ -11,7 +11,7 @@ El proyecto fue creado con **HTML** y **CSS**. Se trata del navegador más usado
 1. Header:
 Esta sección muestra el menú y foto de perfil.
 2. Main:
-Cuontiene los elementos centrales del buscador.
+Contiene los elementos centrales del buscador.
 3. Footer:
 Incluye hipervínculos al final de la página.
 ***
